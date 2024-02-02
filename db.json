@@ -5,16 +5,16 @@
       "id": 1,
       "name": "Complete Project Proposal",
       "description": "Write and submit the project proposal for review.",
-      "status": "In Progress",
-      "due_date": "",
+      "status": "In process",
+      "due_date": "2024-03-01",
       "priority": "High"
     },
     {
       "id": 2,
       "name": "Review Design Mockups",
       "description": "Provide feedback on the design mockups created by the design team.",
-      "status": "Incomplete",
-      "due_date": "",
+      "status": "In process",
+      "due_date": "2024-03-01",
       "priority": "Medium"
     }
     
